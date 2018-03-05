@@ -173,3 +173,12 @@ h1 {
     border-top: 6px solid crimson;
     color: white;
 }
+Input[type="text"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+#subject {
+    width: 100px;
+}
