@@ -194,3 +194,10 @@ Input[type="text"] {
 #subject {
     width: 100px;
 }
+#formMessage {
+    height: 150px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
