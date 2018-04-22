@@ -76,6 +76,18 @@ h2 {
     background-color: white;
     border: 2px solid gray;
 }
+.leftColumnContact {
+    clear: both;
+    overflow: auto;
+    padding: 20px;
+    width: 650px;
+    height:auto;
+    float: left;
+    position: absolute;
+    margin: 30px 40px 30px 140px;
+    background-color: white;
+    border: 2px solid gray;
+}
 .portColumn1 {
     clear: both;
     overflow: auto;
